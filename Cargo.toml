@@ -1,0 +1,5 @@
+[package]
+name = "agent-riff-v4"
+version = "0.4.0"
+edition = "2021"
+description = "Snowball generation 4: musician-soul integration, crates-as-phrases, autonomous spec evolution, generation memory with pruning, self-bootstrapping"
